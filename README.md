@@ -27,7 +27,9 @@
 
 - 使用 GSAP (Tweenmax.js) 製作動態效果
 
-- 利用 Webpack 與生態圈的插件架設開發環境
+- 使用 Webpack 與生態圈的插件架設開發環境
+
+- 使用Gulp自動化工作流程
 
 #### 後端
 
@@ -43,6 +45,8 @@
 - 多益：975分，聽說讀寫流利
 
 ## 作品
+
+- Calculator usign React.js  https://brian1993.github.io/React-Calculator/
 
 ## 未來計畫
 
