@@ -48,6 +48,7 @@
 
 - Calculator usign React.js  : https://brian1993.github.io/React-Calculator/
 - Games Paradise  : https://github.com/Brian1993/GamersParadise 
+- Flickr Photo Search : https://codepen.io/Brian1993/pen/OwJydb?editors=1100 
 
 ## 未來計畫
 
