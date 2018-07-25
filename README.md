@@ -21,7 +21,7 @@
 
 - 使用 Html5 和 CSS3 (SCSS) 完成 RWD 頁面架構和布局，並能在不依賴 UI Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置
 
-- 使用 Fetch API 與 jQuery AJAX  方法串接 RESTful API 和 第三方 API ( Google Map 、 Open Data 等)
+- 使用 Fetch API 與 jQuery AJAX  方法串接 RESTful API 和 第三方 API 
 
 - React 框架使用 
 
