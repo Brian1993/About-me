@@ -46,7 +46,7 @@
 
 ## 作品
 
-- Calculator usign React.js  https://brian1993.github.io/React-Calculator/
+- Calculator usign React.js  : https://brian1993.github.io/React-Calculator/
 
 ## 未來計畫
 
