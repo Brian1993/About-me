@@ -29,7 +29,7 @@
 
 - 使用 Webpack 與生態圈的插件架設開發環境
 
-- 使用Gulp自動化工作流程
+- 使用Gulp自動化工作流程 https://github.com/Brian1993/gulp_basic_-structure
 
 #### 後端
 
