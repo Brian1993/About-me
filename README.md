@@ -53,7 +53,7 @@
 
 ## 未來計畫
 
-- 學習 Redux , Node.js其他有趣的模組 
+- Node.js其他有趣的模組 
 
 - 學習Vue.js
 
