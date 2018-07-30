@@ -35,8 +35,7 @@
 
 - 使用 Node.js 中 express.js 模組建立 RESTful API 
 
-- 使用 Node.js + MongDB 建立 RESTful API 
-  https://github.com/Brian1993/express-api-mongoose/blob/master/README.md
+- 使用 Node.js + MongDB 建立 RESTful API https://github.com/Brian1993/express-api-mongoose
 
 #### 版本控制 
 - 了解 Git / Github 與基本指令運用
