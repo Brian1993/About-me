@@ -6,7 +6,7 @@
   - 資策會 - 前端工程就業養成班            
 - Location : New Taipei 
 - E-mail : wl00387719@gmail.com
-- Personal Website : 
+- Personal Website : https://brian1993.github.io/Brian-Website/
 
 
 ## 技能清單
