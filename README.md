@@ -60,7 +60,6 @@
 
 - 學習如何改善 SPA 的 SEO
 
-- 參加 Hackthon 
 
 ## 關於我
 
