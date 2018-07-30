@@ -51,6 +51,7 @@
 - Flickr Photo Search : https://codepen.io/Brian1993/pen/OwJydb?editors=1100 
 - Taiger :  https://brian1993.github.io/Taiger/ 
 - React-to-do-list : https://brian1993.github.io/React_to-do-list/
+- Git-Search : https://brian1993.github.io/Gif-Search/
 
 ## 未來計畫
 
