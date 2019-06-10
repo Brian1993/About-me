@@ -53,20 +53,4 @@
 - React-to-do-list : https://brian1993.github.io/React_to-do-list/
 - Gif-Search : https://brian1993.github.io/Gif-Search/
 
-## 未來計畫
-
-- Node.js其他有趣的模組 
-
-- 學習Vue.js
-
-- 學習如何改善 SPA 的 SEO
-
-
-## 關於我
-
-- 退伍後，在做一過般服務業後，才發現自己不適合，並在偶然的機遇下碰到code ， 覺得發現新世界 ， 從此一頭栽入前端的世界
-
-- 非常喜歡新知識、技術，一但看到新技術都迫不期待與朋友分享
-
-- 樂於團隊溝通合作
 
