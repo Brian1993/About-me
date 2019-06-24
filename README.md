@@ -23,19 +23,19 @@
 
 - 使用 Fetch API 與 jQuery AJAX  方法串接 RESTful API 和 第三方 API 
 
-- React 框架使用 
+- React + Redux + Redux-Thunk/Saga
 
 - 使用 GSAP (Tweenmax.js) 製作動態效果
 
 - 使用 Webpack 與生態圈的插件架設開發環境
 
-- 使用Gulp自動化工作流程 https://github.com/Brian1993/gulp_basic_-structure
-
 #### 後端
 
 - 使用 Node.js 中 express.js 模組建立 RESTful API 
 
-- 使用 Node.js + MongDB 建立 RESTful API https://github.com/Brian1993/express-api-mongoose
+- 使用 Node.js + MongDB 建立 RESTful API
+
+- MYSQL
 
 #### 版本控制 
 - 了解 Git / Github 與基本指令運用
@@ -45,7 +45,10 @@
 - 多益：915分，聽說讀寫流利
 
 ## 作品
-
+新作品
+- Email(MERN Stack + Google OAuth): https://github.com/Brian1993/emaily
+- Deconnector(MERN Stack + JWT): 開發中
+以下為舊作品
 - Calculator usign React.js  : https://brian1993.github.io/React-Calculator/
 - Games Paradise  : https://github.com/Brian1993/GamersParadise 
 - Flickr Photo Search : https://codepen.io/Brian1993/pen/OwJydb?editors=1100 
