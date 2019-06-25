@@ -8,53 +8,54 @@
 - E-mail : wl00387719@gmail.com
 - Personal Website : https://brian1993.github.io/Brian-Website/
 
+## 作品
+新作品（請看)
+- Email(MERN Stack + Google OAuth): https://github.com/Brian1993/emaily
+- Deconnector(MERN Stack + JWT): https://github.com/Brian1993/devConnector , status: 後端開發中
+- DatingApp(Angular6 + .netcore): https://github.com/Brian1993/DatingApp, status: 開發到使用者登入驗證，但前端之後會用 React 改寫)
+
+以下為舊作品(由於是一年前的做品，千萬不要看code啊)
+- Games Paradise  : https://github.com/Brian1993/GamersParadise 
+- Taiger :  https://brian1993.github.io/Taiger/ 
 
 ## 技能清單
-
-#### 繪圖
-
-- 使用 Photoshop 去背及基本修圖，輸出素材
-- 使用 Illustrator 設計簡單 Logo 及素材
-- 使用 Sketch 製作網頁 UI 圖 
   
 #### 前端
 
-- 使用 Html5 和 CSS3 (SCSS) 完成 RWD 頁面架構和布局，並能在不依賴 UI Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置
+- 切版： SCSS, Bootstrap
 
-- 使用 Fetch API 與 jQuery AJAX  方法串接 RESTful API 和 第三方 API 
+- 框架: React + Redux + Redux-Thunk/Saga
 
-- React + Redux + Redux-Thunk/Saga
+- 愛用 Library: Lodash, moment, axios
 
-- 使用 GSAP (Tweenmax.js) 製作動態效果
+- 動態： GSAP (Tweenmax.js)
 
-- 使用 Webpack 與生態圈的插件架設開發環境
+- 打包: Webpack 4
 
 #### 後端
 
 - 使用 Node.js 中 express.js 模組建立 RESTful API 
 
-- 使用 Node.js + MongDB 建立 RESTful API
+- 使用 Node.js + MongDB/MYSQL 建立 RESTful API
 
-- MYSQL
+- 使用 C#, .net core 開始發 RESTful API
 
+#### CI/CD
+
+- Docker + Travis CI： https://github.com/Brian1993/docker-react
+(只有練習跑過簡單的測試過部署到aws beanstalk，但不熟悉)
+ 
 #### 版本控制 
-- 了解 Git / Github 與基本指令運用
+- Git / Github
+- 常用 GUI 為 Gitkraken 
 
 #### 語言
 
 - 多益：915分，聽說讀寫流利
 
-## 作品
-新作品
-- Email(MERN Stack + Google OAuth): https://github.com/Brian1993/emaily
-- Deconnector(MERN Stack + JWT): 開發中
+#### 近期讀書及Project計畫
 
-以下為舊作品
-- Calculator usign React.js  : https://brian1993.github.io/React-Calculator/
-- Games Paradise  : https://github.com/Brian1993/GamersParadise 
-- Flickr Photo Search : https://codepen.io/Brian1993/pen/OwJydb?editors=1100 
-- Taiger :  https://brian1993.github.io/Taiger/ 
-- React-to-do-list : https://brian1993.github.io/React_to-do-list/
-- Gif-Search : https://brian1993.github.io/Gif-Search/
-
-
+  1. TypeScript
+  2. Vue + Nuxt
+  3. Docker(練熟)
+  4. React Native || Flutter (目前比較傾向 Flutter)
