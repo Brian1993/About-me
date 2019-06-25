@@ -15,7 +15,8 @@
 - DatingApp(Angular6 + .netcore): https://github.com/Brian1993/DatingApp, status: 開發到使用者登入驗證，但前端之後會用 React 改寫)
 
 以下為舊作品(由於是一年前的做品，千萬不要看code啊)
-- Games Paradise  : https://github.com/Brian1993/GamersParadise 
+- Games Paradise  : https://github.com/Brian1993/GamersParadise
+- Brian's Websit: https://github.com/Brian1993/Brian-Website
 - Taiger :  https://brian1993.github.io/Taiger/ 
 
 ## 技能清單
