@@ -55,7 +55,13 @@
 
 #### 近期讀書及Project計畫
 
-  1. TypeScript
+  1. TypeScript (由於React的Hooks在用的時候無法檢查型別，所以決定先學TypeScript來解決用hooks bug很多的問題)
   2. Vue + Nuxt
   3. Docker(練熟)
   4. React Native || Flutter (目前比較傾向 Flutter)
+  5. Java || Go (目前比較傾向 Java)
+
+#### 個人自我介紹
+
+我叫陳弘毅，大家都叫我小眼或Brian，目前已經快當developer一年了，我的個性是屬於非常喜歡嘗試新鮮事物並且熱愛挑戰和分享，每次在公司多寫了一個 utility都會趕快跟隔壁的分享，即便在家裡我也會把我爸叫醒來看我的作品，未來希望可以往Senior全端工程師的方向邁進，
+
