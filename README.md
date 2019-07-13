@@ -32,6 +32,8 @@
 
 - 打包: Webpack 4
 
+- TypeScript: https://github.com/Brian1993/react-redux-typescript
+
 #### 後端
 
 - 使用 Node.js 中 express.js 模組建立 RESTful API 
