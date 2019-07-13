@@ -54,12 +54,10 @@
 - 多益：915分，聽說讀寫流利
 
 #### 近期讀書及Project計畫
-
-  1. TypeScript (由於React的Hooks在用的時候無法檢查型別，所以決定先學TypeScript來解決用hooks bug很多的問題)
-  2. Vue + Nuxt
-  3. Docker(練熟)
-  4. React Native || Flutter (目前比較傾向 Flutter)
-  5. Java || Go (目前比較傾向 Java)
+  1. 學用 Jest 和 Enzyme 寫 testing
+  2. Docker(練熟)
+  3. React Native || Flutter
+  4. Java || Go (目前比較傾向 Java)
 
 #### 個人自我介紹
 
