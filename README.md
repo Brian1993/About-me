@@ -40,7 +40,7 @@
 
 - 使用 Node.js + MongDB/MYSQL 建立 RESTful API
   - 用 express + typescript 實作 decorator routing https://github.com/Brian1993/express-typeScript
-
+  - 用 Nest.js 框架 + typeORM 建立 Restful API https://github.com/Brian1993/nest-task-management (進行中)
 - 使用 C#, .net core 開始發 RESTful API
 
 #### CI/CD
