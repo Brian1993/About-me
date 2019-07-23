@@ -47,6 +47,7 @@
 
 - Docker + Travis CI： https://github.com/Brian1993/docker-react
 (只有練習跑過簡單的測試過部署到aws elastic beanstalk，但不熟悉)
+- Dokcer 使用多個container練習: https://github.com/Brian1993/multiple-container-practice
  
 #### 版本控制 
 - Git / Github
