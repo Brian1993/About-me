@@ -46,7 +46,7 @@
 #### CI/CD
 
 - Docker + Travis CI： https://github.com/Brian1993/docker-react
-(只有練習跑過簡單的測試過部署到aws beanstalk，但不熟悉)
+(只有練習跑過簡單的測試過部署到aws elastic beanstalk，但不熟悉)
  
 #### 版本控制 
 - Git / Github
