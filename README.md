@@ -47,7 +47,7 @@
 
 - Docker + Travis CI： https://github.com/Brian1993/docker-react
 (只有練習跑過簡單的測試過部署到aws elastic beanstalk，但不熟悉)
-- Dokcer 使用多個container練習: https://github.com/Brian1993/multiple-container-practice
+- Dokcer 使用多個container練習: https://github.com/Brian1993/docker-multi-services
  
 #### 版本控制 
 - Git / Github
@@ -61,7 +61,6 @@
   1. 學用 Jest 和 Enzyme 寫 testing
   2. Docker(練熟)
   3. React Native || Flutter
-  4. Java || Go (目前比較傾向 Java)
 
 #### 個人自我介紹
 
